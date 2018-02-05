@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/simon/Documents/Prog/Robotics/Research/GRASP/App/GRASP/platforms/android/build/intermediates/res/merged/F0F1/debug/drawable-xxxhdpi/logo.png",
+        "source": "/Users/simon/Documents/Prog/Robotics/Research/GRASP/App/GRASP/platforms/android/src/main/res/drawable-xxxhdpi/logo.png"
+    },
+    {
+        "merged": "/Users/simon/Documents/Prog/Robotics/Research/GRASP/App/GRASP/platforms/android/build/intermediates/res/merged/F0F1/debug/drawable-xxxhdpi/background.png",
+        "source": "/Users/simon/Documents/Prog/Robotics/Research/GRASP/App/GRASP/platforms/android/src/main/res/drawable-xxxhdpi/background.png"
+    },
+    {
+        "merged": "/Users/simon/Documents/Prog/Robotics/Research/GRASP/App/GRASP/platforms/android/build/intermediates/res/merged/F0F1/debug/drawable-xxxhdpi/ic_menu_black.png",
+        "source": "/Users/simon/Documents/Prog/Robotics/Research/GRASP/App/GRASP/platforms/android/src/main/res/drawable-xxxhdpi/ic_menu_black.png"
+    },
+    {
+        "merged": "/Users/simon/Documents/Prog/Robotics/Research/GRASP/App/GRASP/platforms/android/build/intermediates/res/merged/F0F1/debug/drawable-xxxhdpi/icon.png",
+        "source": "/Users/simon/Documents/Prog/Robotics/Research/GRASP/App/GRASP/platforms/android/src/main/res/drawable-xxxhdpi/icon.png"
+    }
+]

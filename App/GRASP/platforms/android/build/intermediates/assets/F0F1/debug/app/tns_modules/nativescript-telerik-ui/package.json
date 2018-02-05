@@ -1,0 +1,78 @@
+{
+  "_from": "nativescript-telerik-ui@^2.0.1",
+  "_id": "nativescript-telerik-ui@2.0.1",
+  "_inBundle": false,
+  "_integrity": "sha1-Njnz6T6u9k+yqi3Erq1Saep8i6A=",
+  "_location": "/nativescript-telerik-ui",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "nativescript-telerik-ui@^2.0.1",
+    "name": "nativescript-telerik-ui",
+    "escapedName": "nativescript-telerik-ui",
+    "rawSpec": "^2.0.1",
+    "saveSpec": null,
+    "fetchSpec": "^2.0.1"
+  },
+  "_requiredBy": [
+    "/nativescript-angular-drawer-template"
+  ],
+  "_resolved": "https://registry.npmjs.org/nativescript-telerik-ui/-/nativescript-telerik-ui-2.0.1.tgz",
+  "_shasum": "3639f3e93eaef64fb2aa2dc4aead5269ea7c8ba0",
+  "_spec": "nativescript-telerik-ui@^2.0.1",
+  "_where": "/Users/simon/Documents/Prog/Robotics/Research/GRASP/App/GRASP/node_modules/nativescript-angular-drawer-template",
+  "author": {
+    "name": "Progress"
+  },
+  "bugs": {
+    "url": "https://github.com/telerik/nativescript-ui-feedback/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": "Progress NativeScript UI is now completely free. This package is deprecated, please download the latest version of this package: nativescript-pro-ui",
+  "description": "Progress NativeScript UI is a set of rich-ui, cross-platform components based on the native iOS and Android libraries provided by Telerik.",
+  "files": [
+    "**/*.js",
+    "**/*.metadata.json",
+    "**/*.d.ts",
+    "**/*.aar",
+    "**/*.framework",
+    "platforms/android/include.gradle",
+    "!platforms/ios/TelerikAppFeedback.framework/",
+    "!platforms/android/Chart*.aar",
+    "!platforms/android/Feedback*.aar",
+    "!platforms/android/Gauges*.aar",
+    "!platforms/android/Input*.aar",
+    "!calendar/",
+    "!chart/",
+    "!dataform/",
+    "!feedback/",
+    "!autocomplete/",
+    "!gauges/",
+    "!hooks/"
+  ],
+  "keywords": [
+    "nativescript",
+    "ui",
+    "sidedrawer",
+    "listview"
+  ],
+  "license": "SEE LICENSE IN LICENSE.md",
+  "name": "nativescript-telerik-ui",
+  "nativescript": {
+    "ios": "3.0.0",
+    "android": "3.0.0"
+  },
+  "peerDependencies": {
+    "tns-core-modules": "^3.0.0 || ^3.0.0-rc.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://www.github.com/telerik/nativescript-ui-samples.git"
+  },
+  "scripts": {
+    "postinstall": "node ./scripts/email-prompt.js dev_uins_free",
+    "preinstall": "node ./scripts/eula-prompt.js"
+  },
+  "version": "2.0.1"
+}

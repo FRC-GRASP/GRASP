@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/simon/Documents/Prog/Robotics/Research/GRASP/App/GRASP/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/simon/Documents/Prog/Robotics/Research/GRASP/App/GRASP/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-compat-26.0.0-alpha1_b0666b7ac0d04dd1901012201c363582149e0133.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simon/Documents/Prog/Robotics/Research/GRASP/App/GRASP/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/simon/Documents/Prog/Robotics/Research/GRASP/App/GRASP/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-appcompat-v7-26.0.0-alpha1_ae6a41143e41da19837a58e673012cdc848e1b2b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simon/Documents/Prog/Robotics/Research/GRASP/App/GRASP/platforms/android/build/intermediates/exploded-aar/widgets-release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ed69cd5603304a6fc9a36a94c8be977a1d0e4857">
+        <dex dex="/Users/simon/Documents/Prog/Robotics/Research/GRASP/App/GRASP/platforms/android/build/intermediates/pre-dexed/F0F1/debug/intermediates-exploded-aar-widgets-release_6c5cb1b673b5438960c038541349dc25702735e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simon/Documents/Prog/Robotics/Research/GRASP/App/GRASP/platforms/android/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/simon/Documents/Prog/Robotics/Research/GRASP/App/GRASP/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-animated-vector-drawable-26.0.0-alpha1_e7f803982e61b7d43baf18b3dc6b490a2a3f0fbf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simon/Documents/Prog/Robotics/Research/GRASP/App/GRASP/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/simon/Documents/Prog/Robotics/Research/GRASP/App/GRASP/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-v4-26.0.0-alpha1_939d0addea714fef6c3b39cb84d26488c388627c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simon/Documents/Prog/Robotics/Research/GRASP/App/GRASP/platforms/android/build/intermediates/exploded-aar/nativescript-optimized/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="746274223beb11b1cda7854d7eec3038695c2c93">
+        <dex dex="/Users/simon/Documents/Prog/Robotics/Research/GRASP/App/GRASP/platforms/android/build/intermediates/pre-dexed/F0F1/debug/intermediates-exploded-aar-nativescript-optimized_d4ca9665346c3c89e78d4dce69a4b78136e85e2c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simon/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/simon/Documents/Prog/Robotics/Research/GRASP/App/GRASP/platforms/android/build/intermediates/pre-dexed/F0F1/debug/support-annotations-26.0.0-alpha1_28dfdc9dcafb872c5214993646e6b0b85a4afe77.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simon/Documents/Prog/Robotics/Research/GRASP/App/GRASP/platforms/android/build/intermediates/exploded-aar/Common-2017.1.504-dev-release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="35d17e8af8b765ad6db33ed0dad10fd3945aec35">
+        <dex dex="/Users/simon/Documents/Prog/Robotics/Research/GRASP/App/GRASP/platforms/android/build/intermediates/pre-dexed/F0F1/debug/intermediates-exploded-aar-Common-2017.1.504-dev-release_c84543648d4fdafb9ee79e2fa618865a0badeb3b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simon/Documents/Prog/Robotics/Research/GRASP/App/GRASP/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/simon/Documents/Prog/Robotics/Research/GRASP/App/GRASP/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-core-ui-26.0.0-alpha1_6f55afe9ea6b98bd7745ffa9a648a4ea58c0cf16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simon/Documents/Prog/Robotics/Research/GRASP/App/GRASP/platforms/android/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/Users/simon/Documents/Prog/Robotics/Research/GRASP/App/GRASP/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-design-26.0.0-alpha1_6cc9ea4fdf8218529fdacc2332d387d50f757b28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simon/Documents/Prog/Robotics/Research/GRASP/App/GRASP/platforms/android/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/simon/Documents/Prog/Robotics/Research/GRASP/App/GRASP/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-vector-drawable-26.0.0-alpha1_b677f77c4e72066d1b7449b02623e2cd81660e49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simon/Documents/Prog/Robotics/Research/GRASP/App/GRASP/platforms/android/build/intermediates/exploded-aar/com.android.support/support-fragment/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/simon/Documents/Prog/Robotics/Research/GRASP/App/GRASP/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-fragment-26.0.0-alpha1_e4729113e27e8029a4e7bcde707d919bfb71a167.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simon/Documents/Prog/Robotics/Research/GRASP/App/GRASP/platforms/android/build/intermediates/exploded-aar/com.android.support/support-media-compat/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/simon/Documents/Prog/Robotics/Research/GRASP/App/GRASP/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-media-compat-26.0.0-alpha1_3b6ee7f32678db9acc718ce4cb0da92790ab137a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simon/Documents/Prog/Robotics/Research/GRASP/App/GRASP/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-utils/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/simon/Documents/Prog/Robotics/Research/GRASP/App/GRASP/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-core-utils-26.0.0-alpha1_de07125f327ab87eeecc2e841b40aff74a3d59b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simon/Documents/Prog/Robotics/Research/GRASP/App/GRASP/platforms/android/build/intermediates/exploded-aar/Primitives-2017.1.504-dev-release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8370f7dca6cdb1c2b3407855a4c6d481ddd7b0d6">
+        <dex dex="/Users/simon/Documents/Prog/Robotics/Research/GRASP/App/GRASP/platforms/android/build/intermediates/pre-dexed/F0F1/debug/intermediates-exploded-aar-Primitives-2017.1.504-dev-release_0232bb8a5dce6c72633ec665cbb9a435678af60a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simon/Documents/Prog/Robotics/Research/GRASP/App/GRASP/platforms/android/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/Users/simon/Documents/Prog/Robotics/Research/GRASP/App/GRASP/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-recyclerview-v7-26.0.0-alpha1_9e87a3665bd1f6954fd212b5059ebca4cf58716d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simon/Documents/Prog/Robotics/Research/GRASP/App/GRASP/platforms/android/build/intermediates/exploded-aar/com.android.support/transition/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/Users/simon/Documents/Prog/Robotics/Research/GRASP/App/GRASP/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-transition-26.0.0-alpha1_b51b252e45df6999c9ff67e2489d13a22208853d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simon/Documents/Prog/Robotics/Research/GRASP/App/GRASP/platforms/android/build/intermediates/exploded-aar/List-2017.1.504-dev-release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="68e4f95c7b18e9879ebfb526a9545ed960ef3190">
+        <dex dex="/Users/simon/Documents/Prog/Robotics/Research/GRASP/App/GRASP/platforms/android/build/intermediates/pre-dexed/F0F1/debug/intermediates-exploded-aar-List-2017.1.504-dev-release_b4c7f914dec46e0a894d300ef520de4a624e26a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simon/Documents/Prog/Robotics/Research/GRASP/App/GRASP/platforms/android/build/intermediates/exploded-aar/Data-2017.1.504-dev-release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4b641bfe74a612df8e72181362ec895f8f56f73e">
+        <dex dex="/Users/simon/Documents/Prog/Robotics/Research/GRASP/App/GRASP/platforms/android/build/intermediates/pre-dexed/F0F1/debug/intermediates-exploded-aar-Data-2017.1.504-dev-release_a961bf5cf42ed2611a2537ff2d8d6035a4317316.jar" />
+    </item>
+
+</items>

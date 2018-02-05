@@ -1,0 +1,32 @@
+<RadSideDrawer [transition]="drawerTransition">
+  <StackLayout tkDrawerContent class="sidedrawer-left">
+    <ScrollView>
+      <StackLayout class="sidedrawer-content">
+        <GridLayout
+            class="sidedrawer-list-item"
+            *ngFor="let nav of navMenu">
+          <Button
+              class="sidedrawer-list-item-text borderless-btn"
+              [text]="nav.name"
+              (tap)="navigateTo(nav.commands)">
+          </Button>
+        </GridLayout>
+      </StackLayout>
+    </ScrollView>
+  </StackLayout>
+  <StackLayout tkMainContent>
+    <StackLayout [visibility]="isContentVisible ? 'visible' : 'collapsed'">
+      <ng-content ></ng-content>
+    </StackLayout>
+    <GridLayout
+        class="loader-container"
+        [visibility]="!isContentVisible ? 'visible' : 'collapsed'">
+      <ActivityIndicator
+          width="30"
+          height="30"
+          [busy]="!isContentVisible"
+          class="activity-indicator">
+      </ActivityIndicator>
+    </GridLayout>
+  </StackLayout>
+</RadSideDrawer>
